@@ -10,6 +10,7 @@
 > - **最低门槛**：年费小礼包 60GB/月、¥96/年，折合 ¥8/月；短期使用可选 60GB、¥15 的月付小包。
 > - **核心特点**：套餐页标注全 IEPL 专线，并列有 60+ 专线节点及香港、台湾、新加坡、日本、美国等地区。
 > - **适用场景**：支持主流流媒体、ChatGPT、Gemini、TikTok 及其他 AI 工具；另提供 150GB 至 1.2TB 大流量方案。
+> - **开业优惠**：限时优惠码 `kxy80`，新老用户均可用，具体折扣以结算页为准。
 >
 > [查看套餐价格](https://eoht.net/serve/airport/kexin#kexin-vpn-plans) · [查看测速记录](https://eoht.net/serve/airport/kexin#kexin-speed-test) · [查看机场推荐一览表](https://eoht.net/serve/airport/summary#vpn-airport-plan-comparison)
 
@@ -32,12 +33,14 @@
 - 月付小包页面另列有原生 IP、流媒体解锁和客服响应；
 - 服务商将 4K/8K 视频、跨国游戏、AI 工具和跨地区办公列为适用场景，实际体验取决于节点和本地网络。
 
-## 可信云(KeXin)VPN价格与套餐对比
+## 可信云(KeXin)VPN价格、优惠与套餐对比
 
 **支付方式** 支付宝 微信支付 USDT
 
 > [!TIP]
 >
+> - **开业限时优惠码**：`kxy80`
+> - **适用条件**：新老用户均可使用，具体折扣以结算页输入优惠码后的实际优惠为准。
 > - **周期价格**：截图列出的常规套餐季付为 95 折、年付为 85 折；两年付和三年付另有周期折扣，最终价格以结算页为准。
 > - **新手建议**：低频使用选**年费小礼包**，短期体验可选**月付小包**；日常流媒体与 AI 工具可从 **Basic / Standard** 开始比较，高流量使用再考虑 **Pro / Ultimate**。
 
@@ -81,6 +84,8 @@
 - [稳定好用的流媒体合租平台推荐(长期更新 欢迎推荐)](https://eoht.net/serve/sharing/account-sharing-guide)
 - [AI 使用教程汇总｜ChatGPT、Gemini 新手入门与国内使用指南](https://eoht.net/ai/summary)
 - [国外接码平台 Hero SMS 评测（稳定 · 低价 · 高成功率）](https://eoht.net/serve/code/sms)
+
+[机场优惠码汇总](https://github.com/jcsift/airport-summary/blob/main/coupons.md) · [机场卡片汇总](https://github.com/jcsift/airport-summary/blob/main/cards.md)
 
 > [!NOTE]
 > **免责声明**
