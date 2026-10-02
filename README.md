@@ -1,3 +1,5 @@
+<a id="kexin-vpn-review"></a>
+
 # 可信云(KeXin)VPN官网注册地址｜真实测速｜价格与套餐详解
 
 ![可信云(KeXin)](https://i.eoht.net/logo/kexin_logo.webp "可信云(KeXin)")
@@ -12,7 +14,9 @@
 > - **适用场景**：支持主流流媒体、ChatGPT、Gemini、TikTok 及其他 AI 工具；另提供 150GB 至 1.2TB 大流量方案。
 > - **开业优惠**：限时优惠码 `kxy80`，新老用户均可用，具体折扣以结算页为准。
 >
-> [查看套餐价格](https://eoht.net/serve/airport/kexin#kexin-vpn-plans) · [查看测速记录](https://eoht.net/serve/airport/kexin#kexin-speed-test) · [查看机场推荐一览表](https://eoht.net/serve/airport/summary#vpn-airport-plan-comparison)
+> [查看套餐价格](#kexin-vpn-plans) · [查看测速记录](#kexin-speed-test) · [查看机场推荐一览表](https://eoht.net/serve/airport/summary#vpn-airport-plan-comparison)
+
+<a id="kexin-official-website"></a>
 
 ## 可信云(KeXin)VPN官网注册地址（当前可用｜套餐价格｜真实测速）
 
@@ -21,6 +25,8 @@
 **点击购买👉👉👉** [可信云(KeXin)VPN官网](https://eoht.net/serve/airport/kexin)
 
 **本页汇总可信云(KeXin)机场推广注册入口、套餐价格、IEPL 线路、流媒体与 AI 支持及测速记录；价格和节点状态可能调整，购买前请以结算页信息为准。**
+
+<a id="kexin-airport-overview"></a>
 
 ## 可信云(KeXin)VPN是什么？适合哪些人使用
 
@@ -32,6 +38,8 @@
 - 服务商列有 **ChatGPT、Gemini、TikTok、主流流媒体及其他 AI 工具**支持；
 - 月付小包页面另列有原生 IP、流媒体解锁和客服响应；
 - 服务商将 4K/8K 视频、跨国游戏、AI 工具和跨地区办公列为适用场景，实际体验取决于节点和本地网络。
+
+<a id="kexin-vpn-plans"></a>
 
 ## 可信云(KeXin)VPN价格、优惠与套餐对比
 
@@ -53,6 +61,8 @@
 | **专业版 Pro** | **600GB** | ¥100 | ¥285 | ¥1020 | [立即购买](https://eoht.net/serve/airport/kexin) |
 | **旗舰版 Ultimate** | **1.2TB** | ¥200 | ¥570 | ¥2040 | [立即购买](https://eoht.net/serve/airport/kexin) |
 
+<a id="kexin-speed-test"></a>
+
 ## 可信云(KeXin)VPN真实测速与流媒体、AI 支持
 
 ![可信云(KeXin)节点测速图](https://i.eoht.net/airport/kexin_speedtest.webp "可信云(KeXin)节点测速图")
@@ -61,15 +71,23 @@
 
 完整测速图、流媒体与 AI 支持信息请查看：[完整评测](https://eoht.net/serve/airport/kexin)
 
+<a id="kexin-related-guides"></a>
+
 ## 可信云(KeXin)VPN常见问题与继续比较
+
+<a id="kexin-plan-selection"></a>
 
 ### 可信云(KeXin)VPN套餐怎么选？
 
 仅需低频备用时，可优先比较 60GB/月、¥96/年的年费小礼包；想先短期体验可选 ¥15 月付小包。每月需要 150GB 至 300GB 时可比较 Basic 与 Standard，经常观看高清视频或有多人高流量需求时再考虑 Pro 与 Ultimate。
 
+<a id="kexin-streaming-ai-support"></a>
+
 ### 可信云(KeXin)VPN支持哪些流媒体和 AI 工具？
 
 套餐页将主流流媒体和 AI 工具列为支持场景，服务介绍还提到 ChatGPT、Gemini 与 TikTok。具体平台、地区和节点状态可能变化，购买后应优先使用页面标注的对应节点，并以实际访问结果为准。
+
+<a id="kexin-security-and-privacy"></a>
 
 ### 可信云(KeXin)VPN如何说明安全和隐私？
 
